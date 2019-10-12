@@ -21,5 +21,5 @@ Alamat      : Jl. Mpu Tantular No.2 Semarang (https://goo.gl/maps/ZwPptoA1VPu2E9
 Alamat web  : https://sdk.semarangkota.go.id \
 Kontak      : (024) 86041018 \
 Instagram   : https://www.instagram.com/sdksemarang/ \
-Jam Buka    : 24jam (Hari besar libur) \
+Jam Buka    : 24 Jam \
 Gratis      : Bersyarat \
