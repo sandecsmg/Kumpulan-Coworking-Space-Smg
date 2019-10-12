@@ -22,4 +22,4 @@ Alamat web  : https://sdk.semarangkota.go.id \
 Kontak      : (024) 86041018 \
 Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
-Apakah Gratis ? Ya, gratis bersyarat \
+Gratis      : Bersyarat \
