@@ -24,6 +24,16 @@ Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
 
+<img src="https://geniusidea.id/wp-content/uploads/2018/09/sewa-ruang-kantor-office-space-semarang-01.jpg" height="180px" width="180px" align="left">
+
+**GENIUS IDEA SEMARANG**\
+Alamat      : Jl. Sultan Agung, No. 90 – 90A (https://goo.gl/maps/oCzQYQbCtGwGNGtu5) \
+Alamat Web  : geniusidea.id \
+Kontak      : 0818-436-487 \
+Instagram   : geniusidea.id \
+Jam buka    :   Senin-Jum'at 08.00 AM- 05.30 PM, Sabtu Minggu libur \
+Apakah gratis : Tidak, Berbayar
+=======
 <img src="https://www.impala.space/build/images/AU-img1.jpg" width="180px" align="left">
 
 **Impala Space** \
@@ -32,23 +42,3 @@ Alamat web  : https://www.impala.space/ \
 Kontak      : 0813-2980-0300 \
 Jam Buka    : Senin-Jumat: 09.00-23.00; Sabtu-Minggu: 08.00-16.00 \
 Personal atau Group Membership
-
-**3/4 Coworking Space** \
-<img src="https://www.tigaperempat.space/assets/images/website_asset/events/kategori/Class%20Room%201.jpg"
-height="180px" width="180px" align="left">
-
-|Alamat      | Jl. Imam Soeparto No.9, Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah 50277 \ |
-|                                                                                                  |
-|Alamat web  | http://tigaperempat.space/                                                          |
-|                                                                                                  |
-|Kontak      |                                                                                     |
-|                                                                                                  |
-| ...        | General : +6282242151152                                                            |
-|                                                                                                  |
-| ...        | Event   : +6282242506478                                                            |
-|                                                                                                  |
-|Instagram   | https://www.instagram.com/tigaperempatspace/                                        |
-|                                                                                                  |
-|Jam Buka    | Senin s/d Jum'at 08:00 to 02:00                                                     |
-|                                                                                                  |
-|            | Sabtu s/d Minggu 09:00 to 24:00                                                     |  
