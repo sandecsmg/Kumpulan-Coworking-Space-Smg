@@ -9,17 +9,18 @@ Silahkan tambahkan tempat, co-working space atau virtual office yang kalian keta
 ## Daftar Kota
 
 - [Semarang](#Semarang)
-
-
+- [Bandung](#Bandung)
 
 ### Semarang
 
 <img src="https://fastly.4sqi.net/img/general/600x600/6348045_PMI58D26I1nrUOxQnT_jy3BYzluyjf-s2TgLLw3la_I.jpg" height="180px" width="180px" align="left">
 
 **Semarang Digital Kreatif (SDK)** \
-Alamat      : Jl. Mpu Tantular No.2 Semarang (https://goo.gl/maps/ZwPptoA1VPu2E9wY9) \
-Alamat web  : https://sdk.semarangkota.go.id \
-Kontak      : (024) 86041018 \
-Instagram   : https://www.instagram.com/sdksemarang/ \
-Jam Buka    : 24jam (Hari besar libur) \
+Alamat : Jl. Mpu Tantular No.2 Semarang (https://goo.gl/maps/ZwPptoA1VPu2E9wY9) \
+Alamat web : https://sdk.semarangkota.go.id \
+Kontak : (024) 86041018 \
+Instagram : https://www.instagram.com/sdksemarang/ \
+Jam Buka : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
+
+Ini sebuah pesan.
