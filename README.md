@@ -9,6 +9,9 @@ Silahkan tambahkan tempat, co-working space atau virtual office yang kalian keta
 ## Daftar Kota
 
 - [Semarang](#Semarang)
+- [Bandung](#Bandung)
+- [Jakarta](#Jakarta)
+- [Jogja](#Jogja)
 
 
 
