@@ -14,8 +14,6 @@ Silahkan tambahkan tempat, co-working space atau virtual office yang kalian keta
 
 ### Semarang
 
-### Semarang
-
 <img src="https://fastly.4sqi.net/img/general/600x600/6348045_PMI58D26I1nrUOxQnT_jy3BYzluyjf-s2TgLLw3la_I.jpg" height="180px" width="180px" align="left">
 
 **Semarang Digital Kreatif (SDK)** \
