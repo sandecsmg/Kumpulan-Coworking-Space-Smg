@@ -25,3 +25,13 @@ Kontak      : (024) 86041018 \
 Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
+
+<img src="" height="180px" width="180px" align="left">
+
+**Bank Jateng** \
+Alamat      : Gedung Grinatha, Jl. Pemuda No.142, Sekayu, Kec. Semarang Tengah, Kota Semarang, Jawa Tengah 50132 \
+Alamat web  : https://sdk.semarangkota.go.id \
+Kontak      : (024) 86041018 \
+Instagram   : https://www.instagram.com/sdksemarang/ \
+Jam Buka    : 24jam (Hari besar libur) \
+Apakah Gratis ? Ya, gratis bersyarat \
