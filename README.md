@@ -2,7 +2,7 @@
 
 <img src="http://sandec.org/images/sandec-logo.png" height="177px" width="341px" align="center">
 
-Berikut adalah daftar co-working space, virtual office atau sekedar tempat umum ber-wifi yang dapat digunakan untuk bekerja di wilahayah Kota Semarang dan sekitarnya.
+Berikut adalah daftar co-working space, virtual office atau sekedar tempat umum ber-wifi yang dapat digunakan untuk bekerja di wilayah Kota Semarang dan sekitarnya hingga Jawa Tengah.
 
 Silahkan tambahkan tempat, co-working space atau virtual office yang kalian ketahui.
 
