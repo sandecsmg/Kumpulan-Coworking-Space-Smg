@@ -49,3 +49,10 @@ Alamat web  : https://www.idntimes.com/ \
 Kontak      : 0857-2614-6989 \
 Jam Buka    : Senin-Jumat: 09.00-23.00; Sabtu-Minggu: 08.00-16.00 \
 Personal atau Group Membership
+
+**Code Politan**
+Alamat      : Spiegel Building, Jl. Letjen Suprapto No.34, Kota Lama, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174 (https://goo.gl/maps/NXRsiVhPVkGNQfCU8) \
+Alamat web  : https://www.codepolitan.com/ \
+Kontak      : 0857-2614-6989 \
+Jam Buka    : Senin-Jumat: 09.00-23.00; Sabtu-Minggu: 08.00-16.00 \
+Personal atau Group Membership
