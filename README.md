@@ -23,3 +23,14 @@ Kontak      : (024) 86041018 \
 Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
+
+<img src="https://pemkotsemarang2016.files.wordpress.com/2017/06/img_0394.jpg" height="180px" width="180px" align="left"
+
+**Pusat Informasi Publik Semarang** \
+
+Alamat      : Jl. Pemuda No.148 Semarang \
+(https://goo.gl/maps/r18hvvn7tK6fjFL19) \
+Alamat web  : http://pip.semarangkota.go.id \
+Kontak      : (024) 3540009 \
+Jam Buka    :  09.00 - 21.00 Hari Senin - Sabtu (Minggu Tutup)\
+Apakah Gratis ? Ya, Gratis Bersyarat \
