@@ -24,7 +24,7 @@ Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
 
-<img src="https://pemkotsemarang2016.files.wordpress.com/2017/06/img_0394.jpg" height="180px" width="180px" align="left"
+<img src="https://pemkotsemarang2016.files.wordpress.com/2017/06/img_0394.jpg" height="180px" width="180px" align="left">
 
 **Pusat Informasi Publik Semarang** \
 
