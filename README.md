@@ -24,12 +24,12 @@ Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
 
-<img src="https://3.bp.blogspot.com/-CLQRm6S0PKs/V0Mm7IEJQ1I/AAAAAAAAABc/or8Fr7OJ-J8cgPBn8kua1FFIDtlc6y39gCLcB/s640/2.jpg">
+<img src="https://gadgetren.com/wp-content/uploads/2017/05/Telkomsel-Logo-Header.jpg">
 
 **Telkomsel** \
-Alamat      : Jl. Mpu Tantular No.3 Semarang (https://goo.gl/maps/ZwPptoA1VPu2E9wY9) \
-Alamat web  : https://sdk.semarangkota.go.id \
+Alamat      : Jl. Pahlawan No.10, Pleburan, Kec. Semarang Sel., Kota Semarang, Jawa Tengah (https://goo.gl/maps/ZwPptoA1VPu2E9wY9) \
+Alamat web  : https://www.telkomsel.com/ \
 Kontak      : +628604101897 \
-Instagram   : https://www.instagram.com/sdksemarang/ \
+Instagram   : https://www.instagram.com/telkomsel/ \
 Jam Buka    : 12jam (Hari besar libur) \
 Apakah Gratis ? Ya, tapi bayar \
