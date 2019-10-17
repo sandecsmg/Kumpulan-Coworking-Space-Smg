@@ -44,12 +44,13 @@ Jam Buka    : Senin-Jumat: 09.00-23.00; Sabtu-Minggu: 08.00-16.00 \
 Personal atau Group Membership
 \
 ==================================================================================================
+\
 ### 3/4 Coworking Space
-<img src="https://www.tigaperempat.space/assets/images/website_asset/home/Home.JPG" width="180px" align="left">
+\ <img src="https://www.tigaperempat.space/assets/images/website_asset/home/Home.JPG" width="180px" align="left">
 Alamat      : Jl. Imam Soeparto No.9, Bulusan, Kec. Tembalang, Kota Semarang, Jawa Tengah 50277
-(https://goo.gl/maps/DZYofeuv8rdjStbC7)
-Alamat Web  : http://tigaperempat.space/
-Kontak      : 0822-4250-6478
-Jam Buka    : Senin-Jumat: 08.00-02.00, Sabtu-Minggu: 09.00-00.00
-Personal atau Group Membership
+(https://goo.gl/maps/DZYofeuv8rdjStbC7) \
+Alamat Web  : http://tigaperempat.space/ \
+Kontak      : 0822-4250-6478 \
+Jam Buka    : Senin-Jumat: 08.00-02.00, Sabtu-Minggu: 09.00-00.00\
+Personal atau Group Membership \
 ==================================================================================================
