@@ -22,7 +22,7 @@ Alamat web  : https://sdk.semarangkota.go.id \
 Kontak      : (024) 86041018 \
 Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
-Apakah Gratis ? Ya, gratis bersyarat \
+Apakah Gratis ? Ya, gratis bersyarat anggota komunitas \
 
 <img src="https://geniusidea.id/wp-content/uploads/2018/09/sewa-ruang-kantor-office-space-semarang-01.jpg" height="180px" width="180px" align="left">
 
