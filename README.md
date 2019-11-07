@@ -24,6 +24,18 @@ Instagram   : https://www.instagram.com/sdksemarang/ \
 Jam Buka    : 24jam (Hari besar libur) \
 Apakah Gratis ? Ya, gratis bersyarat \
 
+
+<img src="https://gallery101.files.wordpress.com/2016/02/co-working-space.jpg" height="180px" width="180px" align="left">
+
+**Impala Space** \
+Alamat      : Spiegel Building, Jl. Letjen Suprapto No.34, Kota Lama, Tj. Mas, Kec. Semarang Utara, Kota Semarang, Jawa Tengah 50174 \
+Alamat web  : https://www.impala.space \
+Kontak      : (024) 86041018 \
+Instagram   : 0813-2980-0300 \
+Jam Buka    : 09.00 - 23.00 \
+Apakah Gratis ? Tidak, berbayar \
+
+
 <img src="https://geniusidea.id/wp-content/uploads/2018/09/sewa-ruang-kantor-office-space-semarang-01.jpg" height="180px" width="180px" align="left">
 
 **GENIUS IDEA SEMARANG**\
@@ -33,7 +45,8 @@ Kontak      : 0818-436-487 \
 Instagram   : geniusidea.id \
 Jam buka    :   Senin-Jum'at 08.00 AM- 05.30 PM, Sabtu Minggu libur \
 Apakah gratis : Tidak, Berbayar
-=======
+
+
 <img src="https://www.impala.space/build/images/AU-img1.jpg" width="180px" align="left">
 
 **Impala Space** \
